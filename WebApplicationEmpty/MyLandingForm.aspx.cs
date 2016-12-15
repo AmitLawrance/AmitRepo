@@ -12,7 +12,7 @@ namespace WebApplicationEmpty
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Thread.Sleep(10000);
+           // Thread.Sleep(10);
         }
     }
 }
